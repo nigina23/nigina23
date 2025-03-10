@@ -2,7 +2,7 @@
 
 **nigina23/nigina23**
 
-- 🔭 I'm currently working on my bachelor project about Smart Home.
+- 🔭 I'm currently working on my Bachelor project about Healthy Sleep.
 - 🌱 I’m currently studying Media Engineering at the University of Applied Sciences in Kiel.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
